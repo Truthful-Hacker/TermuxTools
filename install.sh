@@ -26,6 +26,7 @@ apt install nmap -y
 apt install nano -y
 apt install vim -y
 apt install python -y
+apt install clang -y
 apt install python2 -y
 apt install git -y
 apt install wget -y
